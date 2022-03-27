@@ -1,3 +1,10 @@
+# Stuff specific to this project
+OoT-Randomizer
+gz*
+output.txt
+oot.n64
+injectee.wad
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

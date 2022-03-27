@@ -1,0 +1,7 @@
+{
+    "ootr_path": "./OoT-Randomizer",
+    "gz_path": "./gz-0.3.6-windows-i686",
+    "rom_path": "./oot.n64",
+    "wad_path": "./injectee.wad",
+    "num_seeds": 1
+}

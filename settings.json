@@ -3,5 +3,10 @@
     "gz_path": "./gz-0.3.6-windows-i686",
     "rom_path": "./oot.n64",
     "wad_path": "./injectee.wad",
-    "num_seeds": 1
+    "out_dir": "C:\\Games\\OOTR\\NoLogic",
+    "random_starting_item": true,
+    "num_seeds": 1,
+    "extra_settings": {
+        "overworld_entrances" : "decouple"
+    }
 }

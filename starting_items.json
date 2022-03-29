@@ -1,0 +1,40 @@
+{
+  "starting_equipment": [
+    "kokiri_sword",
+    "giants_knife",
+    "biggoron_sword",
+    "deku_shield",
+    "hylian_shield",
+    "mirror_shield",
+    "goron_tunic",
+    "zora_tunic",
+    "iron_boots",
+    "hover_boots",
+    "magic",
+    "strength",
+    "scale",
+    "wallet",
+    "defense"
+  ],
+  "starting_items": [
+    "deku_stick",
+    "deku_nut",
+    "bombs",
+    "bow",
+    "fire_arrow",
+    "dins_fire",
+    "slingshot",
+    "ocarina",
+    "bombchus",
+    "hookshot",
+    "ice_arrow",
+    "farores_wind",
+    "boomerang",
+    "lens",
+    "beans",
+    "megaton_hammer",
+    "light_arrow",
+    "nayrus_love",
+    "bottle"
+  ]
+}

@@ -87,7 +87,7 @@ def main():
     created_roms = []
     for i in range(num_seeds):
         print(f"Creating seed number {str(i+1)}")
-        stdout = subprocess.check_output(["python", ".\\OoT-Randomizer\\OoTRandomizer.py", 
+        stdout = subprocess.check_output(["python", ".\\OoT-Randomizer\\OoTRandomizer.py", "--output_settings",
                                           "--settings", ootr_settings_path, "1>", ootr_log, "2>&1"], 
                                          shell=True, encoding="utf8")
         for line in open(ootr_log, 'r').readlines():
